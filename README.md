@@ -1,0 +1,2 @@
+# Implementing-Azure-Monitor-for-Proactive-Infrastructure-Monitoring-
+ Azure monitoring project focused on configuring Azure Monitor, Alerts, Action Groups, Alert Processing Rules, and Log Analytics to enhance infrastructure visibility and operational responsiveness.  Implement a monitoring solution that detects critical infra changes, notifies ops teams, &amp;provides actionable insights through Azure Monitor. 
